@@ -1,8 +1,6 @@
 OUTPUT:
     OUTPUT_DIR: "output/"
 INPUT:
-  #GT_FILEPATH: "/cis/net/r22a/data/vshenoy/merl/MMSE_HR_GT/MMSE_HR_processed_all_subjects_missing_face_untested/40_Subjects_GT_all_cases/"
-  #TIME_SERIES_FILEPATH: "/cis/net/r22a/data/vshenoy/merl/time_series_results/biosignals_time_series/unrolled-ippg-time_series/time_series"
   TRAIN_JSON_PATH: "/cis/home/vshenoy/durr_hand/Physnet_Ischemia/hand_ischemia/data/data_subset.json"
   TEST_JSON_PATH: "/cis/home/vshenoy/durr_hand/Physnet_Ischemia/hand_ischemia/data/data_subset.json"
   #TEST_JSON_PATH: "/cis/home/vshenoy/durr_hand/Physnet_Ischemia/hand_ischemia/data/tourniquet_ischemia.json"
